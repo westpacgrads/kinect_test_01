@@ -1,0 +1,19 @@
+{
+	"bodyIndex":1,
+	"tracked":true,
+	"trackingId":"72057594037928760",
+	"leftHandState":0,
+	"rightHandState":0,
+	"joints":[{
+		"depthX":0.39139366149902344,
+		"depthY":0.7834993600845337,
+		"colorX":0.4262368977069855,
+		"colorY":0.8244086503982544,
+		"cameraX":-0.2551801800727844,
+		"cameraY":-0.5377916693687439,
+		"cameraZ":1.5590229034423828,
+		"orientationX":-0.08335582911968231,
+		"orientationY":0.9921180605888367,
+		"orientationZ":0.0756697878241539,
+		"orientationW":-0.05502445623278618},
+		...
